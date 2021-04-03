@@ -16,4 +16,4 @@ The rules are simple -- if the shown number is even, type 'yes'. Otherwice type 
 You get two numbers and an operator -- it's your turn to calculate numbers! Give your computer a rest, Jesus Christ!
 
 ** Demo: **
-[![asciicast](https://asciinema.org/a/WS7bUEjDpyTe45oYCSPe0chQK)](https://asciinema.org/a/WS7bUEjDpyTe45oYCSPe0chQK)
+[![asciicast](https://asciinema.org/a/WS7bUEjDpyTe45oYCSPe0chQK.svg)](https://asciinema.org/a/WS7bUEjDpyTe45oYCSPe0chQK)
