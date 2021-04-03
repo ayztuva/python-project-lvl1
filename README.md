@@ -10,10 +10,12 @@ Brain Games is cli-games pack, which contains such games as:
 The rules are simple -- if the shown number is even, type 'yes'. Otherwice type 'no'.
 
 ** Demo: **
+
 [![asciicast](https://asciinema.org/a/HLrPB280jerWS74h8040mJpan.svg)](https://asciinema.org/a/HLrPB280jerWS74h8040mJpan)
 
 ## Game: Calculate It
 You get two numbers and an operator -- it's your turn to calculate numbers! Give your computer a rest, Jesus Christ!
 
 ** Demo: **
+
 [![asciicast](https://asciinema.org/a/WS7bUEjDpyTe45oYCSPe0chQK.svg)](https://asciinema.org/a/WS7bUEjDpyTe45oYCSPe0chQK)
