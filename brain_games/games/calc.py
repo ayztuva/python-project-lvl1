@@ -11,7 +11,7 @@ _EXPR = {
 }
 
 
-def get_questuon_and_answer() -> Tuple[str, int]:
+def get_questuon_and_answer() -> Tuple[str, str]:
     a, b = [randint(_MIN_NUMBER, _MAX_NUMBER) for _ in range(2)]
     expr = choice(list(_EXPR.keys()))
     return (
@@ -20,6 +20,6 @@ def get_questuon_and_answer() -> Tuple[str, int]:
     )
 
 
-def validate_answer(answer: int) -> bool:
+def validate_answer(answer: str) -> bool:
     answer = answer.lstrip('-')
     return False not in [i.isdigit() for i in answer]
