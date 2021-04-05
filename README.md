@@ -6,6 +6,7 @@ Brain Games is a cli-games pack that contains games such as:
 1. is even
 2. calculate it
 3. find greatest common divisor
+4. progress me
 
 ## Game: Is Even
 The rules are simple -- if the shown number is even, type 'yes'. Otherwice type 'no'.
@@ -27,3 +28,10 @@ Now you have two numbers. You need to find greatest common divisor. Seems challe
 ** Demo: **
 
 [![asciicast](https://asciinema.org/a/SmdQYUy0HxnAtSTIzNwITftNB.svg)](https://asciinema.org/a/WS7bUEjDpyTe45oYCSPe0chQK)
+
+## Game: Progress Me
+Do you remember arithmetic progression at school? What do you mean "not covered this topic yet"? Who cares, just start playing.
+
+** Demo: **
+
+[![asciicast](https://asciinema.org/a/1QQg4ajw8zfJ4F6E9uHM5FNmE.svg)](https://asciinema.org/a/1QQg4ajw8zfJ4F6E9uHM5FNmE)
