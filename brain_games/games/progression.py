@@ -14,9 +14,9 @@ def get_questuon_and_answer() -> Tuple[str, str]:
     start = randint(_MIN_NUMBER, _MAX_NUMBER)
     length = randint(_MIN_LENGTH, _MAX_LENGTH)
     diff = randint(_MIN_DIFF, _MAX_DIFF)
-    idx = randint(0, length - 1) 
+    idx = randint(0, length - 1)
     question = [str(start + diff * n) for n in range(length)]
-    
+
     answer = question[idx]
     question[idx] = '..'
     return (' '.join(question), answer)
