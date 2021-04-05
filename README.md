@@ -7,6 +7,7 @@ Brain Games is a cli-games pack that contains games such as:
 2. calculate it
 3. find greatest common divisor
 4. progress me
+5. prime or composite
 
 ## Game: Is Even
 The rules are simple -- if the shown number is even, type 'yes'. Otherwice type 'no'.
@@ -31,7 +32,15 @@ Now you have two numbers. You need to find greatest common divisor. Seems challe
 
 ## Game: Progress Me
 Do you remember arithmetic progression at school? What do you mean "not covered this topic yet"? Who cares, just start playing.
+Find missing number in sequence.
 
 ** Demo: **
 
-[![asciicast](https://asciinema.org/a/1QQg4ajw8zfJ4F6E9uHM5FNmE.svg)](https://asciinema.org/a/1QQg4ajw8zfJ4F6E9uHM5FNmE)
+[![asciicast](https://asciinema.org/a/TSvlmC7RD0JsjdpTMJZwnC0y3.svg)](https://asciinema.org/a/TSvlmC7RD0JsjdpTMJZwnC0y3)
+
+## Game: Prime or Composite
+Improve your skills and show who is real Optimus Prime here. Determine a prime number.
+
+** Demo: **
+
+[![asciicast](https://asciinema.org/a/IOhHBmLZu0Avv72BDDdaNy0aW.svg)](https://asciinema.org/a/IOhHBmLZu0Avv72BDDdaNy0aW)

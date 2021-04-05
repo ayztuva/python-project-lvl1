@@ -1,13 +1,13 @@
 from random import randint
 from typing import Tuple
 
-RULES = 'Find the greatest common divisor of given numbers.'
+RULES = 'What number is missing in the progression?'
 _MIN_NUMBER = 0
 _MAX_NUMBER = 100
 _MIN_LENGTH = 5
 _MAX_LENGTH = 15
 _MIN_DIFF = 2
-_MAX_DIFF = 19
+_MAX_DIFF = 3
 
 
 def get_questuon_and_answer() -> Tuple[str, str]:
