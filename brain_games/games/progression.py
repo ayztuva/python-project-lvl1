@@ -7,7 +7,7 @@ _MAX_NUMBER = 100
 _MIN_LENGTH = 5
 _MAX_LENGTH = 15
 _MIN_DIFF = 2
-_MAX_DIFF = 3
+_MAX_DIFF = 15
 
 
 def get_questuon_and_answer() -> Tuple[str, str]:
